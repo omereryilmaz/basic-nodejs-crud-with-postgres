@@ -12,7 +12,9 @@ npm install
 ## Usage
 
 To run the project:
+
 > PostgreSql must be ready before the project is started.
+
 ```bash
 npm start
 ```
